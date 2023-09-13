@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sameerhusain
-- 👀 I’m interested in AI and Machine Learning
-- 🌱 I’m currently learning python and Javascript
+- 👀 I’m interested in Machine Learning and Data Analysis
+- 🌱 I’m currently learning python and frameworks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gmail- sameerhusainben10@gmail.com
 
